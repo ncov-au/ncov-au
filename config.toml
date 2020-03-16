@@ -1,0 +1,18 @@
+theme = "paper"
+
+categories = ["Health", "Coronavirus"]
+date = "2020-03-15"
+description = "stub"
+slug = "stub"
+tags = ["health"]
+title = "stub"
+
+[author]
+  name = "NCOV-AU"
+  homepage = "https://ncov-au.github.io"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
